@@ -1,0 +1,24 @@
+#main {
+  text-align: center;
+  text-emphasis: font;
+}
+#title{
+padding:5px;
+background-color:lightcyan;
+}
+body {
+  background-color: lightblue;
+}
+
+#tribute-info {
+  margin-left: 40%;
+  text-align: justify;
+}
+#image {
+  max-width: 100%;
+}
+#side{
+text-align: left;
+
+
+}
